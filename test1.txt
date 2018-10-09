@@ -1,0 +1,10 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 44B2-FD96
+
+ Directory of C:\Users\muhar\Desktop\Projects
+
+09/10/2018  11:21    <DIR>          .
+09/10/2018  11:21    <DIR>          ..
+09/10/2018  11:21                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  31ÿ961ÿ276ÿ416 bytes free
