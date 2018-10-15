@@ -1,0 +1,11 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is 44B2-FD96
+
+ Directory of C:\Users\muhar\Desktop\Projects_Git
+
+15/10/2018  10:02    <DIR>          .
+15/10/2018  10:02    <DIR>          ..
+09/10/2018  10:21        43ÿ450ÿ544 Git-2.19.1-64-bit.exe
+15/10/2018  10:02                 0 testfile.txt
+               2 File(s)     43ÿ450ÿ544 bytes
+               2 Dir(s)  34ÿ410ÿ381ÿ312 bytes free
